@@ -1,4 +1,4 @@
-![MasterHead](https://www.paliscope.com/wp-content/uploads/2018/04/Gif-animation-hello.gif)
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 <h3 align="center">⭐Welcome to my GitHub profile! I'm a dedicated Computer Science and Engineering (CSE) student with a passion for developing innovative solutions and contributing to the tech community. Here, you'll find a collection of my projects, ranging from web development and data structures to algorithm design and networking.</h3>
 
