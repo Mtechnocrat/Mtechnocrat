@@ -3,7 +3,6 @@
 <h3 align="center">⭐Welcome to my GitHub profile! I'm a dedicated Computer Science and Engineering (CSE) student with a passion for developing innovative solutions and contributing to the tech community. Here, you'll find a collection of my projects, ranging from web development and data structures to algorithm design and networking.</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtechnocrat&label=Profile%20views&color=0e75b6&style=flat" alt="mtechnocrat" /> </p>
 
